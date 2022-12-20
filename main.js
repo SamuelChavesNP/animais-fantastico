@@ -1,0 +1,21 @@
+import tabNav from './modules/tabnav.js';
+import initAcordion from './modules/acordion.js';
+import initScrollAnimation from './modules/scrollanimation.js';
+import scrollSuave from './modules/scrollsuave.js';
+import initModal from './modules/modal.js';
+import initTooltip from './modules/tooltip.js';
+import initDropdown from './modules/dropdown.js';
+import initFuncionamento from './modules/funcionamento.js';
+import initFetchAnimais from './modules/fetch-animais.js';
+import initFetchBitcoin from './modules/fetch-bitcoin.js';
+
+tabNav();
+initAcordion();
+initScrollAnimation();
+scrollSuave();
+initModal();
+initTooltip();
+initDropdown();
+initFuncionamento();
+initFetchAnimais();
+initFetchBitcoin();
